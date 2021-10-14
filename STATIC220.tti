@@ -1,0 +1,92 @@
+DE,Shares index
+DS,inserter
+SP,S:\MENU220.tti
+PN,22001
+SC,0001
+PS,8000
+CT,20,T
+RE,0
+OL,0,XXXXXXXXTEEFAX 1 220 tue 04 aprChh:nn.ss
+OL,1,W7c#57c#57c#5n5A]W |,$| |h<l4|,th<$|,$  
+OL,2,W5("55("55*#5j5A]W s{5#j7k5#}jw1s{5  
+OL,3,W###!###!###!##Q///,,.,/,-.-.,/,-,.,,.//
+OL,4,C   BBC1 PAGE NUMBERS:   FO-P    G229   
+OL,5,F   A  G221  FF-G  G225  FQ-R    G230   
+OL,6,F   B  G222  FH-I  G226  FS      G231   
+OL,7,F   C  G223  FJ-K-LG227  FT-U-V  G232   
+OL,8,F   D-EG224  FM-N  G228  FW-X-Y-ZG233   
+OL,10,FBBC1 shares are updated at the         
+OL,11,Ffollowing times on a snapshot basis:   
+OL,12,    0815, 1200, Close (around 1645)     
+OL,13,FIt will take at least 10 minutes to    
+OL,14,Fload each set of prices, so the above  
+OL,15,Ftimings are approximate only.          
+OL,16,F                                       
+OL,17, NBFAll prices carried on Ceefax enjoy  
+OL,18,Findicative status only. The BBC accepts
+OL,19,Fno responsibility for their accuracy or
+OL,20,Ffor any use to which they may be put.  
+OL,21,                                    1/3 
+OL,22,A]GBBC News    101     Weather     400  
+OL,23,A]GCurrencies  240     Front Page  100  
+OL,24,AShares A  BExchanges  CCity FMain Menu 
+FL,221,240,200,100,8ff,199
+PN,22002
+SC,0002
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,W7c#57c#57c#5n5A]W |,$| |h<l4|,th<$|,$  
+OL,2,W5("55("55*#5j5A]W s{5#j7k5#}jw1s{5  
+OL,3,W###!###!###!##Q///,,.,/,-.-.,/,-,.,,.//
+OL,4,CKEY TO ABBREVIATIONS USED IN INVESTMENT
+OL,5,CTRUST COMPANY NAMES ON PAGES 221-233:  
+OL,6,   B FBond            GH FHigh          
+OL,7,   C FCapital         GI FInvestment    
+OL,8,   ChFCharter         GInFIncome        
+OL,9,   CoFCompany         GK FKey           
+OL,10,   CvFConvertible     GM FManaged       
+OL,11,   D FDividend        GO FOverseas      
+OL,12,   DeFDevelopment     GP FProperty      
+OL,13,   DuFDual            GPfFPreferred     
+OL,14,   E FEnterprise      GR FRecovery      
+OL,15,   EmFEmerging        GS FSmaller       
+OL,16,   EnFEndowment       GSeFSecond        
+OL,17,   EqFEquity          GStFStrategic     
+OL,18,   F FFund            GT FTrust         
+OL,19,   FlFFledgling       GU FUnits         
+OL,20,   G FGrowth          GW FWarrants      
+OL,21,                                    2/3 
+OL,22,A]GBBC News    101     Weather     400  
+OL,23,A]GCurrencies  240     Front Page  100  
+OL,24,AShares A  BExchanges  CCity FMain Menu 
+FL,221,240,200,100,8ff,199
+PN,22003
+SC,0003
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Wj#3kj#3kj#3kA] W |,$| |h<l4|,th<$|,$   
+OL,2,Wj $kj $kj 'kA] W s{5#j7k5#}jw1s{5   
+OL,3,W"###"###"###Q////,,.,/,-.-.,/,-,.,,.///
+OL,4,CIMPACTS OF SETS ON SHARE PRICE QUOTES  
+OL,6, FTSE index constituents and reserves:  
+OL,7,FThese shares are now traded on the news
+OL,8,FStock Excahnge Electronic Trading      
+OL,9,FSystem (SETS) so the prices quoted are 
+OL,10,Fthe last traded price.                 
+OL,12, Other shares:                          
+OL,13,FMid-prices are shown.                  
+OL,15,FAnGxFindicates shares gone ex-dividend.
+OL,16,A```````````````````````````````````````
+OL,17, NBFAll prices carried on Ceefax enjoy  
+OL,18,Findicative status only. The BBC accepts
+OL,19,Fno responsibility for their accuracy or
+OL,20,Ffor any use to which they may be put.  
+OL,21,                                    3/3 
+OL,22,A]CNews 2000-share list on BBC1 220-233 
+OL,23,A]GCurrencies  240     Front Page  100  
+OL,24,AShares A  BExchanges  CCity FMain Menu 
+FL,221,240,200,100,8ff,199

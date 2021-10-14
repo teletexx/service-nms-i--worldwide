@@ -1,0 +1,87 @@
+DS,inserter
+DE,Weather Maps
+CT,10,T
+PN,40101
+SC,0001
+PS,c000
+OL,1,D]C    Weather for Thursday night       
+OL,2,            ZS`4`~|}             G1/3 
+OL,3,            ZS?0~G4S%                  
+OL,4,          ^ZSj*Uy||t                
+OL,5,CPartly   ^ZS ({U?  ELt.rain      
+OL,6,Ccloudy     ZS!'G3U!  Eshower       
+OL,7,            ^ZS~Vw1                 
+OL,8,ALight      ^ZS~Vw1  FClear         
+OL,9,Arain       ZVj)+G5Q}                
+OL,10,       ^ZSp|t VxQ0               
+OL,11,       ZSnG8SuV+"UG7Q   BCloudy     
+OL,12,       ZS+U> ^+R5              
+OL,13,       ^ZS"%*o!    U*Ru             
+OL,14,              ZR`  U*G8R}            
+OL,15,             ^ZRk|            
+OL,16,              ZR'oG10R^}zt         
+OL,17,              ^ZRj_G11R         
+OL,18,            ZR`||G13R^_7         
+OL,19,             ^ZR!"//#h_G13Rpp        
+OL,20,             ^ZR tSR!        
+OL,21,             ZRhG12R^S?s/R/?#          
+OL,22,            ZR8?' "'  S "               
+OL,23,D]C        From the Met Office          
+OL,24,ARegional  BSport   CWeather  FMain Menu
+FL,402,300,400,100,8ff,199
+PN,40102
+SC,0002
+PS,c000
+OL,1,D]C        Weather for Friday           
+OL,2,            ZS`4`~|}             G2/3 
+OL,3,            ZS?0~G10S%                  
+OL,4,          ^ZSj*Uy||t                
+OL,5,COvercast ^ZS ({U?  ECloudy       
+OL,6,            ZS!'G9U!                
+OL,7,            ^ZS~Vw1                 
+OL,8,            ^ZS~Vw1  FPartly        
+OL,9,            ZVj)+G9V} Fcloudy        
+OL,10,       ^ZVp|t  x0               
+OL,11,       ZVnG12Vu +"RG11V   BSunny      
+OL,12,       ZV+R> ^+5              
+OL,13,       ^ZV"%*o!    R*u             
+OL,14,              ZR`   *G13R}            
+OL,15,             ^ZRk|V            
+OL,16,              ZR'oG13V^R}zt         
+OL,17,              ^ZRjV_G14R         
+OL,18,            ZR`||G15V^R_7         
+OL,19,             ^ZR!"/V#h_G15Vpp        
+OL,20,             ^ZU tUV!        
+OL,21,             ZUhG17U^?s/V/?#          
+OL,22,            ZU8?' "'    "               
+OL,23,D]C        From the Met Office          
+OL,24,ARegional  BSport   CWeather  FMain Menu
+FL,402,300,400,100,8ff,199
+PN,40103
+SC,0003
+PS,c000
+OL,1,D]C     Weather for Friday night        
+OL,2,            ZU`4`~|}             G3/3 
+OL,3,            ZU?0~G4U%                  
+OL,4,          ^ZUj*Vy||t                
+OL,5,EOvercast ^ZU ({V?  FCloudy       
+OL,6,            ZU!'G2V!                
+OL,7,            ^ZU~Vw1                 
+OL,8,            ^ZU~Vw1  CPartly        
+OL,9,            ZVj)+G4S} Ccloudy        
+OL,10,       ^ZUp|t VxS0               
+OL,11,       ZUnG8UuV+"SG5S   BClear      
+OL,12,       ZU+S> ^+R5              
+OL,13,       ^ZU"%*o!    S*Ru             
+OL,14,              ZS`   *G7R}            
+OL,15,             ^ZSk|            
+OL,16,              ZS'oG8S^R}zt         
+OL,17,              ^ZSj_G7R         
+OL,18,            ZS`||G11S^R_7         
+OL,19,             ^ZS!"//#h_G9Rpp        
+OL,20,             ^ZV tVR!        
+OL,21,             ZVhG12V^?s/R/?#          
+OL,22,            ZV8?' "'    "               
+OL,23,D]C        From the Met Office          
+OL,24,ARegional  BSport   CWeather  FMain Menu
+FL,402,300,400,100,8ff,199

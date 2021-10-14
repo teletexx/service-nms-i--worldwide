@@ -1,0 +1,50 @@
+DS,inserter
+DE,Football League Table
+CT,10,T
+PN,32501
+SC,0001
+PS,c000
+OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
+OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
+OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
+OL,4,B CHAMPIONSHIP                     G1/2
+OL,6,G Oct 03 16:23    P  W  D  L   F   A Pts
+OL,8,G 1 Bournemouth  11  7  4  0  18   8  25
+OL,9,F 2 West Brom    11  6  4  1  20   9  22
+OL,10,A```````````````````````````````````````
+OL,11,G 3 Coventry     11  7  1  3  16  12  22
+OL,12,F 4 Stoke        11  6  3  2  15  11  21
+OL,13,G 5 Fulham       11  6  2  3  23  13  20
+OL,14,F 6 QPR          11  5  3  3  22  16  18
+OL,15,A```````````````````````````````````````
+OL,16,G 7 H'field      11  5  2  4  16  14  17
+OL,17,F 8 Blackburn    11  4  4  3  19  14  16
+OL,18,G 9 Bristol City 11  4  4  3  14  13  16
+OL,19,F10 Reading      11  5  1  5  17  19  16
+OL,20,G11 Millwall     11  3  6  2  11  11  15
+OL,21,F12 Blackpool    11  4  3  4  11  14  15
+OL,24,ANext page  BFootball CHeadlines FSport
+FL,326,302,301,300,8ff,320
+PN,32502
+SC,0002
+PS,c000
+OL,1,Wj#3kj#3kj#3kT]R h<h<|h<|(|$|l4|l4| |
+OL,2,Wj $kj $kj 'kT]R j7juju  {4k500
+OL,3,W"###"###"###T///-.-,,-,,/,/,,.,-.,.,.//
+OL,4,B CHAMPIONSHIP                     G2/2
+OL,6,G Oct 03 16:23    P  W  D  L   F   A Pts
+OL,8,G13 Luton        11  3  5  3  18  16  14
+OL,9,F14 Sheff Utd    11  3  3  5  14  16  12
+OL,10,G15 Middlesbroug 11  3  3  5  11  13  12
+OL,11,F16 Birmingham   11  3  3  5  10  15  12
+OL,12,G17 Nottm Forest 11  3  2  6  14  14  11
+OL,13,F18 Preston      11  2  5  4  12  15  11
+OL,14,G19 Swansea      11  2  5  4   9  14  11
+OL,15,F20 Cardiff      11  3  2  6  12  19  11
+OL,16,G21 Hull         11  2  3  6   8  15   9
+OL,17,A```````````````````````````````````````
+OL,18,F22 Barnsley     11  1  5  5   7  14   8
+OL,19,G23 Peterborough 11  2  2  7  12  23   8
+OL,20,F24 Derby        11  3  5  3   7   8   2
+OL,24,ANext page  BFootball CHeadlines FSport
+FL,326,302,301,300,8ff,320

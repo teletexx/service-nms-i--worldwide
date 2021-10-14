@@ -1,0 +1,55 @@
+DE,600s Index
+PN,69901
+SC,0001
+PS,c000
+CT,2,C
+OL,1,T//o//o//o//o//o//oS    p   `ppp0
+OL,2,D]S s1k5k5p0s1{5{5  \  `>`p ##{' 
+OL,3,D]S /.%/.%/.%  /.%,.%,.%  \ x| "!`>!  
+OL,4,                          S.!  /  (////$
+OL,5,                          T#   #  "####!
+OL,6,CBThe 600s on BBC1                      
+OL,8,  BBC information                       
+OL,9, CContacts       G695                   
+OL,10, CDigital        G967                   
+OL,11, CReception      G698                   
+OL,13,  HORSE RACING   G660 CTimeform     G687
+OL,14, CIndex          G661 CTotes        G688
+OL,15, CNews from      G662 CRadio 5, track   
+OL,16, CResults from   G670 Cdetails      G690
+OL,17, CMoney Talks    G678 CBHB info     G691
+OL,18, CEarly Odds     G679 CAnte-Post    G692
+OL,19, CDeclarations   G680 CGreyhoundsG693-94
+OL,21,                                    1/2 
+OL,22,D]CTV listings G600CRadioG640CNews G101 
+OL,23,D]CHorse racingG660CEnts G500CSportG300 
+OL,24,AMain Menu  BSport  CWeather  FTV/Radio 
+FL,100,300,400,600,8ff,199
+PN,69902
+SC,0002
+PS,c000
+CT,2,C
+OL,1,T//o//o//o//o//o//oS    p   `ppp0
+OL,2,D]S s1k5k5p0s1{5{5  \  `>`p ##{' 
+OL,3,D]S /.%/.%/.%  /.%,.%,.%  \ x| "!`>!  
+OL,4,                          S.!  /  (////$
+OL,5,BThe 600s on BBC1         T#   #  "####!
+OL,6,C                                       
+OL,7,CRadio from      G640CTV from       G600
+OL,8,C Radio 1        G641C BBC1         G601
+OL,9,C Radio 2        G642C BBC2         G602
+OL,10,C Radio 3        G643C ITV          G603
+OL,11,C Radio 4        G644C Channel 4    G604
+OL,12,C Radio 5        G645C Channel 5    G605
+OL,13,C Local Radio  G646-7C Now Next     G606
+OL,14,C World Service  G648C Prime Time   G607
+OL,15,C Classic        G649C ITV variationG608
+OL,16,C Virgin 1215    G649C ITV variationG609
+OL,17,C Talk Radio     G649                   
+OL,19,C Radio Links    G650 CTV Links     G615
+OL,20,                      CTV Tomorrow  G630
+OL,21,                                    2/2 
+OL,22,D]CTV listings G600CRadioG640CNews G101 
+OL,23,D]CHorse racingG660CEnts G500CSportG300 
+OL,24,AMain Menu  BSport  CWeather  FTV/Radio 
+FL,100,300,400,600,8ff,199

@@ -1,0 +1,84 @@
+DE,processPage,1634238031
+PS,c000
+CT,30,T
+PN,60101
+SC,0001
+OL,0,NMS 2021ECIMSBNMPServer5FprocessPage
+OL,1,V|,,,,,,l|4F````````````````````````````
+OL,2,V"!j5j=5S{%{%+%( G      THU-FRI  
+OL,3,V  +>!j5Sz5z5z5`0G      2100-0005
+OL,4,V/,,,,,,.-%F``````````````````````G 1/3 
+OL,5,C2100GAmbulanceC                        
+OL,6,F     3/6. A 999 call for a patient who 
+OL,7,F     has fallen from a horse in a      
+OL,8,F     remote area takes priority for    
+OL,9,F     crewmates Chris and Lee on a very 
+OL,10,F     busy day shift in Lancashire. Also
+OL,11,F     in HD. (S)                        
+OL,12,C2200GBBC News at TenC                  
+OL,13,C2225GLook North (East Yorkshire and    
+OL,14,     GLincolnshire)C                    
+OL,15,F     The latest news, sport and weather
+OL,16,F     for Yorkshire and Lincolnshire.   
+OL,17,F     (S)                               
+OL,18,C2235GQuestion TimeC                    
+OL,19,C2335GPrince William does NewscastC     
+OL,20,C0005GBlankety BlankC                   
+OL,22,F]DS=Subtitles  AD=Audio Description    
+OL,23,D]FBBC1A601FBBC2A602F C4A604FOn nowA606 
+OL,24,ABBC2    BITV 1   CCh 4   FNow & Next   
+FL,602,603,604,606,8ff,100
+PN,60102
+SC,0002
+OL,0,NMS 2021ECIMSBNMPServer5FprocessPage
+OL,1,V|,,,,,,l|4F````````````````````````````
+OL,2,V"!j5j=5S{%{%+%( G      FRIDAY   
+OL,3,V  +>!j5Sz5z5z5`0G      0040-1300
+OL,4,V/,,,,,,.-%F``````````````````````G 2/3 
+OL,5,C0040GThe Hit ListC                     
+OL,6,F     2/6. Featuring teams from         
+OL,7,F     Stoke-on-Trent, Dundee and        
+OL,8,F     Swansea. Also in HD. (S)          
+OL,9,C0125GWeather for the Week AheadC       
+OL,10,C0130GBBC NewsC                         
+OL,11,C0600GBreakfastC                        
+OL,12,F     The latest news, sport, business  
+OL,13,F     and weather from the BBC's        
+OL,14,F     Breakfast team. Also in HD. (S)   
+OL,15,C0915GRip Off BritainC                  
+OL,16,C1000GDefenders UKC                     
+OL,17,C1045GClaimed and ShamedC               
+OL,18,C1115GHomes Under the HammerC           
+OL,19,C1215GBargain HuntC                     
+OL,20,C1300GBBC News at OneC                  
+OL,22,F]DS=Subtitles  AD=Audio Description    
+OL,23,D]FBBC1A601FBBC2A602F C4A604FOn nowA606 
+OL,24,ABBC2    BITV 1   CCh 4   FNow & Next   
+FL,602,603,604,606,8ff,100
+PN,60103
+SC,0003
+OL,0,NMS 2021ECIMSBNMPServer5FprocessPage
+OL,1,V|,,,,,,l|4F````````````````````````````
+OL,2,V"!j5j=5S{%{%+%( G      FRIDAY   
+OL,3,V  +>!j5Sz5z5z5`0G      1330-1630
+OL,4,V/,,,,,,.-%F``````````````````````G 3/3 
+OL,5,C1330GLook North (East Yorkshire and    
+OL,6,     GLincolnshire)C                    
+OL,7,F     The latest news, sport and weather
+OL,8,F     for Yorkshire and Lincolnshire.   
+OL,9,F     (S)                               
+OL,10,C1345GImpossibleC                       
+OL,11,F     29/50. Game show presented by Rick
+OL,12,F     Edwards in which players score    
+OL,13,F     points by answering questions     
+OL,14,F     correctly while avoiding the      
+OL,15,F     impossible answers. Also in HD.   
+OL,16,F     (S)                               
+OL,17,C1430GThe Repair ShopC                  
+OL,18,C1500GEscape to the CountryC            
+OL,19,C1545GMoney for NothingC                
+OL,20,C1630GAntiques Road TripC               
+OL,22,F]DS=Subtitles  AD=Audio Description    
+OL,23,D]FBBC1A601FBBC2A602F C4A604FOn nowA606 
+OL,24,ABBC2    BITV 1   CCh 4   FNow & Next   
+FL,602,603,604,606,8ff,100

@@ -1,0 +1,53 @@
+DE,Description goes here
+DS,inserter
+SP,Y:\national\STATIC695.tti
+PN,69501
+SC,0001
+PS,c000
+CT,20,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Wh,,lh,,lh,,lT]Sl$<4<$<4<4<84<4l$4<4<4  
+OL,2,Wj 1nj 1nj }~T]Sj 55= 55=155575j 55555  
+OL,3,WjpqzjpqzjpqzT]S.$%%% -%%%%%%%%* %-%%%  
+OL,5,CHow Ceefax Works                       
+OL,6, The Ceefax system you're watching is   
+OL,7, updated from the BBC, Met Office and   
+OL,8, Sharecast using code written by Nathan 
+OL,9, Dane and Paul Martin.                  
+OL,11,FThese websites have their data read    
+OL,12,Fby some PHP scripts which produce all  
+OL,13,Fthe actual pages.                      
+OL,15,FIf you notice a problem with any of the
+OL,16,Fpages at any time,Cplease contact me.  
+OL,17,FI can only fix the system if I know    
+OL,18,Fsomething's wrong and I can't watch it 
+OL,19,Fall the time!                          
+OL,20,FSee the next page for contact details. 
+OL,21,                                    1/2 
+OL,22,D]CJob Details     G696CFront page G100 
+OL,23,D]CNewsG101CWeatherG400CTV ListingsG600 
+OL,24,ABBC Jobs  BSport   CWeather  FTV/Radio 
+FL,696,300,400,600,8ff,199
+PN,69502
+SC,0002
+PS,c000
+CT,20,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Wh,,lh,,lh,,lT]Sl$<4<$<4<4<84<4l$4<4<4  
+OL,2,Wj 1nj 1nj }~T]Sj 55= 55=155575j 55555  
+OL,3,WjpqzjpqzjpqzT]S.$%%% -%%%%%%%%* %-%%%  
+OL,5,CContact Details                        
+OL,7, If you'd like to contact me about the  
+OL,8, Ceefax service, you can e-mail me at   
+OL,9,Fnmpceefax@gmail.com                    
+OL,11, If some of your content appears on     
+OL,12, Ceefax and you want it changed or      
+OL,13, removed, e-mail                        
+OL,14,Fnathanmediaservices@gmail.com          
+OL,21,                                    2/2 
+OL,22,D]CJob Details     G696CFront page G100 
+OL,23,D]CNewsG101CWeatherG400CTV ListingsG600 
+OL,24,ABBC Jobs  BSport   CWeather  FTV/Radio 
+FL,696,300,400,600,8ff,199

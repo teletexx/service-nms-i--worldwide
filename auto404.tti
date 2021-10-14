@@ -1,0 +1,84 @@
+DS,inserter
+DE,Weather Reports
+CT,10,T
+PN,40401
+SC,0001
+PS,c000
+OL,1,Wj#3kj#3kj#3kT]QSh44|h<h<|(|$|h4|$|l    
+OL,2,Wj $kj $kj 'kT]QS*uu?jwj7  k51k4   
+OL,3,W"###"###"###T////,,.-,-.,/,/,-.,.,-.///
+OL,4,                                    1/3
+OL,5,CCURRENT UK WEATHER: Report at 1900
+OL,6,
+OL,7,            Ctemp   wind  pres
+OL,8,               GC    mph    mB
+OL,9,FAberdaron     14 WNW 19  1019BFFovrcast
+OL,10,GAberdeen      12   -  -  1020BFGpt cldy
+OL,11,FBelfast       13 WSW 15  1015BFFlt.rain
+OL,12,GBirmingham    14  SW  6  1019BFGovrcast
+OL,13,FBristol       14   W  5  1021BFFovrcast
+OL,14,GCardiff       14   W 11  1020BFGcloudy
+OL,15,FEastbourne    13  SW  3  1021BFFpt cldy
+OL,16,GEdinburgh     11  NW 13  1012FRGovrcast
+OL,17,FGlasgow       10 WNW 11  1013FRFovrcast
+OL,18,GInverness      6   N  3  1014FRGpt cldy
+OL,20,   CpressureFRCrisingGSCsteadyBFCfalling
+OL,21,
+OL,22,D]CC=  5  6  7  8  9 10 11 12 13 14 15
+OL,23,D]CF= 41 43 45 46 48 50 52 54 55 57 59
+OL,24,AUK 5 dayB Sport  CWeather   FMain Menu
+FL,406,300,400,100,8ff,199
+PN,40402
+SC,0002
+PS,c000
+OL,1,Wj#3kj#3kj#3kT]QSh44|h<h<|(|$|h4|$|l    
+OL,2,Wj $kj $kj 'kT]QS*uu?jwj7  k51k4   
+OL,3,W"###"###"###T////,,.-,-.,/,/,-.,.,-.///
+OL,4,                                    2/3
+OL,5,CCURRENT UK WEATHER: Report at 1900
+OL,6,
+OL,7,            Ctemp   wind  pres
+OL,8,               GC    mph    mB
+OL,9,FIpswich       14  SW  7  1019BFFcloudy
+OL,10,GIsle of Man   14 WSW 17  1016BFGovrcast
+OL,11,FLeeds         11   W 10  1016BFFovrcast
+OL,12,GLerwick        7 NNW 24  1006FRGpt cldy
+OL,13,FLincoln       14 WSW 16  1017BFFcloudy
+OL,14,GLondon        15   W  8  1020BFGcloudy
+OL,15,FManchester    13 WSW  3  1017BFFovrcast
+OL,16,GMargate       12  SW  9  1020BFGcloudy
+OL,17,FNewcastle     13   W 10  1012BFFovrcast
+OL,18,GNewquay       13   S  3  1022BFGpt cldy
+OL,20,   CpressureFRCrisingGSCsteadyBFCfalling
+OL,21,
+OL,22,D]CC=  5  6  7  8  9 10 11 12 13 14 15
+OL,23,D]CF= 41 43 45 46 48 50 52 54 55 57 59
+OL,24,AUK 5 dayB Sport  CWeather   FMain Menu
+FL,406,300,400,100,8ff,199
+PN,40403
+SC,0003
+PS,c000
+OL,1,Wj#3kj#3kj#3kT]QSh44|h<h<|(|$|h4|$|l    
+OL,2,Wj $kj $kj 'kT]QS*uu?jwj7  k51k4   
+OL,3,W"###"###"###T////,,.-,-.,/,/,-.,.,-.///
+OL,4,                                    3/3
+OL,5,CCURRENT UK WEATHER: Report at 1900
+OL,6,
+OL,7,            Ctemp   wind  pres
+OL,8,               GC    mph    mB
+OL,9,FNorwich        -   -  -     -F-Fn/a
+OL,10,GOxford        14  SW  7  1020BFGcloudy
+OL,11,FPeterborough  14 WSW 10  1017BFFovrcast
+OL,12,GPlymouth      13 WSW  6  1022BFGovrcast
+OL,13,FSalisbury     14  SW  8  1021BFFcloudy
+OL,14,GShrewsbury    14 WSW 15  1018BFGovrcast
+OL,15,FSouthampton   14  SW  7  1021BFFcloudy
+OL,16,GSt Andrews    10   W  8  1012FRGovrcast
+OL,17,FSt Helier     10 ESE  1  1022BFFclear
+OL,18,GYork           -   -  -     -F-Gn/a
+OL,20,   CpressureFRCrisingGSCsteadyBFCfalling
+OL,21,
+OL,22,D]CC=  5  6  7  8  9 10 11 12 13 14 15
+OL,23,D]CF= 41 43 45 46 48 50 52 54 55 57 59
+OL,24,AUK 5 dayB Sport  CWeather   FMain Menu
+FL,406,300,400,100,8ff,199

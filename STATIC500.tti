@@ -1,0 +1,26 @@
+DE,Entertainment
+DS,inserter
+SP,Y:\national\STATIC500.tti
+PN,50000
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEDFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,C]U|$xl0l<h<h<t(|$|l4|`<t`<<th<`<t(|$   
+OL,2,C]U1j5j5jwj7}  k5j5j55jwj5     
+OL,3,S#######################################
+OL,4,MENTERTAINMENT NEWS HEADLINES.......F501
+OL,6,C```````````````````````````````````````
+OL,7, TOP ENTERTAINMENT STORY............F502
+OL,9, OTHER ENTERTAINMENT STORIES....F503-514
+OL,10,C```````````````````````````````````````
+OL,12, TV INDEX......F520GNEWS HEADLINES..F101
+OL,14, MUSIC INDEX...F530GTV LISTINGS.....F600
+OL,16, FILM INDEX....F540GLOTTERY.........F555
+OL,18, GAMES.........F550GNEWSROUND.......F570
+OL,20, CHESS.........F568GCOOKERY.........F560
+OL,22,C]DTravel  430  City  200  Weather   400
+OL,23,C]DSport   300  Chess 568  TV Links  615
+OL,24,AEntsIndex BTV IndexCNewsroundFFilmIndex
+FL,501,600,570,540,100,199

@@ -1,0 +1,24 @@
+DE,BBC World News template
+DS,Inserter
+SP,Y:\Worldwide\STATIC160.tti
+PN,16000
+SC,0000
+PS,8040
+CT,15,C
+RE,0
+OL,0,TemplateCEEFAX 1 %%# %%a %d %%bC%H:%M/%S
+OL,1,Wj#3kj#3kj#3kT]S   |hh4|,|h<l4| h<l0    
+OL,2,Wj $kj $kj 'kT]S   ozz%pj7k4pjuz%    
+OL,3,W"###"###"###T/////-,,/,,,-.-.,,-,,/////
+OL,4,MUnfortunately, regional pages are not  
+OL,6,Mavailable on the Worldwide feed.       
+OL,9,FIf you'd like to see news for a        
+OL,10,Fparticular region here, select it from 
+OL,11,FVBIT2 Config.                          
+OL,13,FIf you're located in the UK but your   
+OL,14,Fregion is not available, contact us so 
+OL,15,Fwe can enable your region.             
+OL,22,D]CHome news digestG141CWorld digestG142
+OL,23,D]CNews IndexG102CFlashG150CRegionalG160
+OL,24,AContacts BNews IndxCHeadlinesFMain Menu
+FL,180,102,101,100,f,109

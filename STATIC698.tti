@@ -1,0 +1,48 @@
+DE,Description goes here
+DS,inserter
+SP,P:\national\STATIC698.tti
+PN,69801
+SC,0001
+PS,c000
+CT,20,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Wj#3kj#3kj#3kD]S|l4|,`<$|,h<|(|$|h<|h<| 
+OL,2,Wj $kj $kj 'kD]Sk4s*u0sj=/  juj5 
+OL,3,W"###"###"###T//,-.,,/,.,,-.//,/,-,,-.,/
+OL,4,CCEEFAX SERVER INFORMATION              
+OL,5, This is where we'll let you know about 
+OL,6, problems with the Ceefax system which  
+OL,7, could effect availability, such as     
+OL,8, planned server outages or unexpected   
+OL,9, failures.                              
+OL,11,FIn the event of a planned server       
+OL,12,Foutage, you may need to re-install your
+OL,13,FCeefax service to continue getting     
+OL,14,Fupdates.                               
+OL,15,F                                       
+OL,16,FMajor outages will also be announced on
+OL,17,FP100, but will be shown here further in
+OL,18,Fadvance and in greater detail.         
+OL,21,                                   G1/2 
+OL,22,D]CKey BBC contactsG695CFront page G100 
+OL,23,D]CDigitalG697CWeatherG400CListingsG600 
+OL,24,ATV A-Z    BSport   CWeather   FTV/Radio
+FL,699,300,400,600,8ff,199
+PN,69802
+SC,0002
+PS,8000
+CT,30,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Wj#3kj#3kj#3kD]S|l4|,`<$|,h<|(|$|h<|h<| 
+OL,2,Wj $kj $kj 'kD]Sk4s*u0sj=/  juj5 
+OL,3,W"###"###"###T//,-.,,/,.,,-.//,/,-,,-.,/
+OL,4,CPLANNED SERVER OUTAGES                 
+OL,5, There are currently no server outages  
+OL,6,Fplanned.                               
+OL,21,                                   G2/2 
+OL,22,D]CKey BBC contactsG695CFront page G100 
+OL,23,D]CDigitalG697CWeatherG400CListingsG600 
+OL,24,ATV A-Z    BSport   CWeather   FTV/Radio
+FL,699,300,400,600,8ff,199

@@ -1,0 +1,283 @@
+DS,inserter
+DE,Weather Five Day
+CT,10,T
+PN,40601
+SC,0001
+PS,c000
+OL,1,Wj#3kj#3kj#3kT]QSh44|h<h<|(|$|h4|$|l    
+OL,2,Wj $kj $kj 'kT]QS*uu?jwj7  k51k4   
+OL,3,W"###"###"###T////,,.-,-.,/,/,-.,.,-.///
+OL,4,                                   1/10
+OL,5,CUK FIVE DAY FORECAST FROM 14 Oct
+OL,6,Bmax for 0600-1800   min for 1800-0600
+OL,7,C    max minGC      C    max minGC
+OL,8,GAberdeen            Anglesey
+OL,9,FThu  15   6 hy rain Thu  15   9 cloudy
+OL,10,GFri   9   4 cloudy  Fri  12   5 sunny
+OL,11,FSat  10   8 cloudy  Sat  15  13 cloudy
+OL,12,GSun  14  10 cloudy  Sun  16  13 cloudy
+OL,13,FMon  14  12 cloudy  Mon  17  15 cloudy
+OL,14,
+OL,15,GAberystwyth         Ayr
+OL,16,FThu  15  11 cloudy  Thu  14   4 lt.rain
+OL,17,GFri  14   9 sunny   Fri  10   6 sunny
+OL,18,FSat  16  13 cloudy  Sat  13  12 cloudy
+OL,19,GSun  16  12 lt.rain Sun  14  12 lt.rain
+OL,20,FMon  17  16 lt.rain Mon  15  14 lt.rain
+OL,21,
+OL,22,D]CC=  4  6  7  8 10 12 13 14 16 18 19
+OL,23,D]CF= 39 43 45 46 50 54 55 57 61 64 66
+OL,24,AUK map  B Sport  CWeather   FMain Menu
+FL,401,300,400,100,8ff,199
+PN,40602
+SC,0002
+PS,c000
+OL,1,Wj#3kj#3kj#3kT]QSh44|h<h<|(|$|h4|$|l    
+OL,2,Wj $kj $kj 'kT]QS*uu?jwj7  k51k4   
+OL,3,W"###"###"###T////,,.-,-.,/,/,-.,.,-.///
+OL,4,                                   2/10
+OL,5,CUK FIVE DAY FORECAST FROM 14 Oct
+OL,6,Bmax for 0600-1800   min for 1800-0600
+OL,7,C    max minGC      C    max minGC
+OL,8,GBelfast             Bristol
+OL,9,FThu  15   8 cloudy  Thu  17  13 cloudy
+OL,10,GFri  12   8 cloudy  Fri  15  10 cloudy
+OL,11,FSat  14  12 cloudy  Sat  16  12 cloudy
+OL,12,GSun  16  13 ovrcast Sun  17  13 cloudy
+OL,13,FMon  16  15 lt.rain Mon  17  15 cloudy
+OL,14,
+OL,15,GBirmingham          Cardiff
+OL,16,FThu  16  10 ovrcast Thu  17  13 cloudy
+OL,17,GFri  13   8 pt cldy Fri  15  11 pt cldy
+OL,18,FSat  14  11 cloudy  Sat  16  13 cloudy
+OL,19,GSun  16  11 cloudy  Sun  17  13 cloudy
+OL,20,FMon  16  14 cloudy  Mon  17  16 lt.rain
+OL,21,
+OL,22,D]CC=  4  6  7  8 10 12 13 14 16 18 19
+OL,23,D]CF= 39 43 45 46 50 54 55 57 61 64 66
+OL,24,AUK map  B Sport  CWeather   FMain Menu
+FL,401,300,400,100,8ff,199
+PN,40603
+SC,0003
+PS,c000
+OL,1,Wj#3kj#3kj#3kT]QSh44|h<h<|(|$|h4|$|l    
+OL,2,Wj $kj $kj 'kT]QS*uu?jwj7  k51k4   
+OL,3,W"###"###"###T////,,.-,-.,/,/,-.,.,-.///
+OL,4,                                   3/10
+OL,5,CUK FIVE DAY FORECAST FROM 14 Oct
+OL,6,Bmax for 0600-1800   min for 1800-0600
+OL,7,C    max minGC      C    max minGC
+OL,8,GCarlisle            Dover
+OL,9,FThu  14   5 ovrcast Thu  17  12 pt cldy
+OL,10,GFri  10   4 sunny   Fri  14   9 pt cldy
+OL,11,FSat  13  12 cloudy  Sat  14  13 cloudy
+OL,12,GSun  15  12 cloudy  Sun  16  13 cloudy
+OL,13,FMon  16  14 cloudy  Mon  17  16 cloudy
+OL,14,
+OL,15,GDouglas, I of Man   Edinburgh
+OL,16,FThu  14   8 cloudy  Thu  13   5 cloudy
+OL,17,GFri  11   7 sunny   Fri   9   4 pt cldy
+OL,18,FSat  14  13 cloudy  Sat  10   9 ovrcast
+OL,19,GSun  15  13 cloudy  Sun  14  11 cloudy
+OL,20,FMon  15  15 lt.rain Mon  15  13 cloudy
+OL,21,
+OL,22,D]CC=  4  6  7  8 10 12 13 14 16 18 19
+OL,23,D]CF= 39 43 45 46 50 54 55 57 61 64 66
+OL,24,AUK map  B Sport  CWeather   FMain Menu
+FL,401,300,400,100,8ff,199
+PN,40604
+SC,0004
+PS,c000
+OL,1,Wj#3kj#3kj#3kT]QSh44|h<h<|(|$|h4|$|l    
+OL,2,Wj $kj $kj 'kT]QS*uu?jwj7  k51k4   
+OL,3,W"###"###"###T////,,.-,-.,/,/,-.,.,-.///
+OL,4,                                   4/10
+OL,5,CUK FIVE DAY FORECAST FROM 14 Oct
+OL,6,Bmax for 0600-1800   min for 1800-0600
+OL,7,C    max minGC      C    max minGC
+OL,8,GExeter              Hull
+OL,9,FThu  17  12 pt cldy Thu  15   8 cloudy
+OL,10,GFri  16  11 cloudy  Fri  12   7 pt cldy
+OL,11,FSat  16  13 cloudy  Sat  14  11 cloudy
+OL,12,GSun  17  13 cloudy  Sun  16  11 lt rain
+OL,13,FMon  17  16 lt.rain Mon  16  14 cloudy
+OL,14,
+OL,15,GGlasgow             Inverness
+OL,16,FThu  14   5 lt.rain Thu  15   4 lt.rain
+OL,17,GFri  10   5 pt cldy Fri  10   4 cloudy
+OL,18,FSat  11  10 lt.rain Sat  10   7 cloudy
+OL,19,GSun  14  12 lt.rain Sun  14  10 cloudy
+OL,20,FMon  16  14 ovrcast Mon  15  12 cloudy
+OL,21,
+OL,22,D]CC=  4  6  7  8 10 12 13 14 16 18 19
+OL,23,D]CF= 39 43 45 46 50 54 55 57 61 64 66
+OL,24,AUK map  B Sport  CWeather   FMain Menu
+FL,401,300,400,100,8ff,199
+PN,40605
+SC,0005
+PS,c000
+OL,1,Wj#3kj#3kj#3kT]QSh44|h<h<|(|$|h4|$|l    
+OL,2,Wj $kj $kj 'kT]QS*uu?jwj7  k51k4   
+OL,3,W"###"###"###T////,,.-,-.,/,/,-.,.,-.///
+OL,4,                                   5/10
+OL,5,CUK FIVE DAY FORECAST FROM 14 Oct
+OL,6,Bmax for 0600-1800   min for 1800-0600
+OL,7,C    max minGC      C    max minGC
+OL,8,GLeeds               Lincoln
+OL,9,FThu  15   7 cloudy  Thu  16   8 cloudy
+OL,10,GFri  12   6 sunny   Fri  13   6 pt cldy
+OL,11,FSat  14  11 cloudy  Sat  14  11 cloudy
+OL,12,GSun  16  11 cloudy  Sun  17  11 cloudy
+OL,13,FMon  16  14 cloudy  Mon  16  14 cloudy
+OL,14,
+OL,15,GLerwick             Liverpool
+OL,16,FThu  12   5 lt rain Thu  15   9 ovrcast
+OL,17,GFri  10   7 cloudy  Fri  13   8 sunny
+OL,18,FSat   9   7 cloudy  Sat  15  12 cloudy
+OL,19,GSun  11  10 lt.rain Sun  16  13 cloudy
+OL,20,FMon  12  11 cloudy  Mon  16  15 cloudy
+OL,21,
+OL,22,D]CC=  4  6  7  8 10 12 13 14 16 18 19
+OL,23,D]CF= 39 43 45 46 50 54 55 57 61 64 66
+OL,24,AUK map  B Sport  CWeather   FMain Menu
+FL,401,300,400,100,8ff,199
+PN,40606
+SC,0006
+PS,c000
+OL,1,Wj#3kj#3kj#3kT]QSh44|h<h<|(|$|h4|$|l    
+OL,2,Wj $kj $kj 'kT]QS*uu?jwj7  k51k4   
+OL,3,W"###"###"###T////,,.-,-.,/,/,-.,.,-.///
+OL,4,                                   6/10
+OL,5,CUK FIVE DAY FORECAST FROM 14 Oct
+OL,6,Bmax for 0600-1800   min for 1800-0600
+OL,7,C    max minGC      C    max minGC
+OL,8,GLondon              Manchester
+OL,9,FThu  17  13 cloudy  Thu  15   8 ovrcast
+OL,10,GFri  15   9 pt cldy Fri  13   7 sunny
+OL,11,FSat  16  11 cloudy  Sat  14  12 cloudy
+OL,12,GSun  17  13 cloudy  Sun  16  12 cloudy
+OL,13,FMon  17  16 ovrcast Mon  16  15 cloudy
+OL,14,
+OL,15,GLondonderry         Newcastle
+OL,16,FThu  14   8 lt.rain Thu  14   7 cloudy
+OL,17,GFri  11   7 cloudy  Fri  11   5 pt cldy
+OL,18,FSat  13  12 cloudy  Sat  12  10 ovrcast
+OL,19,GSun  15  12 ovrcast Sun  16  11 cloudy
+OL,20,FMon  16  14 lt.rain Mon  16  14 cloudy
+OL,21,
+OL,22,D]CC=  4  6  7  8 10 12 13 14 16 18 19
+OL,23,D]CF= 39 43 45 46 50 54 55 57 61 64 66
+OL,24,AUK map  B Sport  CWeather   FMain Menu
+FL,401,300,400,100,8ff,199
+PN,40607
+SC,0007
+PS,c000
+OL,1,Wj#3kj#3kj#3kT]QSh44|h<h<|(|$|h4|$|l    
+OL,2,Wj $kj $kj 'kT]QS*uu?jwj7  k51k4   
+OL,3,W"###"###"###T////,,.-,-.,/,/,-.,.,-.///
+OL,4,                                   7/10
+OL,5,CUK FIVE DAY FORECAST FROM 14 Oct
+OL,6,Bmax for 0600-1800   min for 1800-0600
+OL,7,C    max minGC      C    max minGC
+OL,8,GNorwich             Oban
+OL,9,FThu  15  11 ovrcast Thu  14   4 lt.rain
+OL,10,GFri  13   5 sunny   Fri  10   6 cloudy
+OL,11,FSat  14  10 cloudy  Sat  11  10 lt.rain
+OL,12,GSun  16  11 cloudy  Sun  14  11 lt.rain
+OL,13,FMon  17  14 cloudy  Mon  15  14 lt.rain
+OL,14,
+OL,15,GNottingham          Penzance
+OL,16,FThu  16   9 cloudy  Thu  16  11 pt cldy
+OL,17,GFri  12   6 sunny   Fri  17  10 cloudy
+OL,18,FSat  14  11 cloudy  Sat  15  14 cloudy
+OL,19,GSun  17  11 cloudy  Sun  16  15 cloudy
+OL,20,FMon  16  14 cloudy  Mon  17  16 lt.rain
+OL,21,
+OL,22,D]CC=  4  6  7  8 10 12 13 14 16 18 19
+OL,23,D]CF= 39 43 45 46 50 54 55 57 61 64 66
+OL,24,AUK map  B Sport  CWeather   FMain Menu
+FL,401,300,400,100,8ff,199
+PN,40608
+SC,0008
+PS,c000
+OL,1,Wj#3kj#3kj#3kT]QSh44|h<h<|(|$|h4|$|l    
+OL,2,Wj $kj $kj 'kT]QS*uu?jwj7  k51k4   
+OL,3,W"###"###"###T////,,.-,-.,/,/,-.,.,-.///
+OL,4,                                   8/10
+OL,5,CUK FIVE DAY FORECAST FROM 14 Oct
+OL,6,Bmax for 0600-1800   min for 1800-0600
+OL,7,C    max minGC      C    max minGC
+OL,8,GPeterborough        Salisbury
+OL,9,FThu  16  10 ovrcast Thu  17  12 pt cldy
+OL,10,GFri  14   6 pt cldy Fri  14   9 cloudy
+OL,11,FSat  15  11 cloudy  Sat  16  11 cloudy
+OL,12,GSun  17  11 cloudy  Sun  17  12 cloudy
+OL,13,FMon  17  14 cloudy  Mon  16  15 cloudy
+OL,14,
+OL,15,GPlymouth            Scarborough
+OL,16,FThu  17  12 cloudy  Thu  14   9 cloudy
+OL,17,GFri  17  12 cloudy  Fri  11   5 pt cldy
+OL,18,FSat  15  14 cloudy  Sat  13  10 cloudy
+OL,19,GSun  16  14 cloudy  Sun  15  11 cloudy
+OL,20,FMon  17  16 hy rain Mon  15  13 cloudy
+OL,21,
+OL,22,D]CC=  4  6  7  8 10 12 13 14 16 18 19
+OL,23,D]CF= 39 43 45 46 50 54 55 57 61 64 66
+OL,24,AUK map  B Sport  CWeather   FMain Menu
+FL,401,300,400,100,8ff,199
+PN,40609
+SC,0009
+PS,c000
+OL,1,Wj#3kj#3kj#3kT]QSh44|h<h<|(|$|h4|$|l    
+OL,2,Wj $kj $kj 'kT]QS*uu?jwj7  k51k4   
+OL,3,W"###"###"###T////,,.-,-.,/,/,-.,.,-.///
+OL,4,                                   9/10
+OL,5,CUK FIVE DAY FORECAST FROM 14 Oct
+OL,6,Bmax for 0600-1800   min for 1800-0600
+OL,7,C    max minGC      C    max minGC
+OL,8,GSheffield           Southampton
+OL,9,FThu  15   7 cloudy  Thu  19  13 pt cldy
+OL,10,GFri  12   6 sunny   Fri  15  11 cloudy
+OL,11,FSat  14  11 cloudy  Sat  16  14 cloudy
+OL,12,GSun  16  11 cloudy  Sun  16  14 cloudy
+OL,13,FMon  16  14 cloudy  Mon  17  16 ovrcast
+OL,14,
+OL,15,GShrewsbury          St Helier
+OL,16,FThu  16   9 cloudy  Thu  16  12 sunny
+OL,17,GFri  13   7 pt cldy Fri  17  13 pt cldy
+OL,18,FSat  15  12 cloudy  Sat  16  13 cloudy
+OL,19,GSun  17  11 cloudy  Sun  16  14 cloudy
+OL,20,FMon  17  15 cloudy  Mon  17  16 cloudy
+OL,21,
+OL,22,D]CC=  4  6  7  8 10 12 13 14 16 18 19
+OL,23,D]CF= 39 43 45 46 50 54 55 57 61 64 66
+OL,24,AUK map  B Sport  CWeather   FMain Menu
+FL,401,300,400,100,8ff,199
+PN,40610
+SC,0010
+PS,c000
+OL,1,Wj#3kj#3kj#3kT]QSh44|h<h<|(|$|h4|$|l    
+OL,2,Wj $kj $kj 'kT]QS*uu?jwj7  k51k4   
+OL,3,W"###"###"###T////,,.-,-.,/,/,-.,.,-.///
+OL,4,                                  10/10
+OL,5,CUK FIVE DAY FORECAST FROM 14 Oct
+OL,6,Bmax for 0600-1800   min for 1800-0600
+OL,7,C    max minGC      C    max minGC
+OL,8,GSt Peter Port       Worcester
+OL,9,FThu  16  14 sunny   Thu  17  11 ovrcast
+OL,10,GFri  16  14 pt cldy Fri  13   7 sunny
+OL,11,FSat  16  15 cloudy  Sat  16  12 cloudy
+OL,12,GSun  16  15 cloudy  Sun  17  12 cloudy
+OL,13,FMon  17  17 lt.rain Mon  17  15 cloudy
+OL,14,
+OL,15,GStranraer           York
+OL,16,FThu  14   5 lt.rain Thu  15   7 ovrcast
+OL,17,GFri  11   6 sunny   Fri  12   6 pt cldy
+OL,18,FSat  14  12 cloudy  Sat  14  11 cloudy
+OL,19,GSun  15  13 ovrcast Sun  16  11 cloudy
+OL,20,FMon  15  14 lt.rain Mon  16  14 cloudy
+OL,21,
+OL,22,D]CC=  4  6  7  8 10 12 13 14 16 18 19
+OL,23,D]CF= 39 43 45 46 50 54 55 57 61 64 66
+OL,24,AUK map  B Sport  CWeather   FMain Menu
+FL,401,300,400,100,8ff,199

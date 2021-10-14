@@ -1,0 +1,32 @@
+DE,
+DS,inserter
+SP,Y:\Worldwide\STATIC600.tti
+PN,60000
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,T||||,,,l,l,l|||||,,,l,,,l,,,|,l<,,|||||
+OL,2,T]V S#7!55     w%w5745~74    
+OL,3,T]V  S5 +u?!CANDS5555u%5ou%    
+OL,4,T#######################################
+OL,5,C`````````````` WORLDWIDE ``````````````
+OL,6, BBC1        C601GBBC content adviceC611
+OL,7, BBC2        C602G                      
+OL,8, ITV1        C603G                      
+OL,9, Ch4         C604GTomorrow's progs  C630
+OL,10, Five        C605G                      
+OL,11, Now & Next  C606G                      
+OL,12, Primetime   C607GEnts Extra        C520
+OL,14, ]D Link up with BBC programmesA615     
+OL,16,                      Qh,,,,,,,,,|4     
+OL,17, Radio index     C640 QjV]W$,,|Q\w5 W5  
+OL,18, Local radio  C646-47 QjV]W   +Q\}5W05  
+OL,19, Links for radio C650 QjV]W   \,,,,,,%  
+OL,20,                      QjV/////Twggg5  
+OL,21,                      Q"######T----//%  
+OL,22,D]CWeather   G400 CEnts G500CRacing G660
+OL,23,D]CFront pageG100 CSportG300CA-Z    G199
+OL,24,ABBC1    BBBC2   CRadio   FNow & Next   
+FL,601,602,640,606,8ff,199
